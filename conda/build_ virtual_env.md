@@ -10,7 +10,7 @@ conda activate pyarrow_pandas_env365
 
 ```shell
 #package customized env
-conda pack -n pyarrow_pandas_env365 -o pyarrow_pandas_env365.tar.gz
+conda pack -n pyarrow_pandas_env365 -f -o pyarrow_pandas_env365.tar.gz
 ```
 
 ```shell
